@@ -16,3 +16,4 @@ Run verifier with your zk proof input.
 - Update note 8280
 - Update note 2805
 - Update note 1353
+- Update note 1650
