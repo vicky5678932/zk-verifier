@@ -10,3 +10,4 @@ Run verifier with your zk proof input.
 - Update note 3412
 - Update note 8367
 - Update note 9181
+- Update note 7655
