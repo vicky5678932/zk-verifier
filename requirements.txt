@@ -22,3 +22,4 @@ web3==2.4.3
 requests==2.2.8
 pydantic==2.2.7
 requests==2.8.5
+eth-abi==0.8.1
